@@ -1,0 +1,5 @@
+{
+  "name": "Socratic Mirror v2",
+  "description": "A Socratic questioning engine that builds a living psychological and philosophical profile of the user through dialogue.",
+  "requestFramePermissions": []
+}
