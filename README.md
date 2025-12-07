@@ -1,12 +1,11 @@
 # Socratic Mirror v2 🦉✨
-<img width="250" height="150" alt="Screenshot 2025-12-07 110304" src="https://github.com/user-attachments/assets/7b3d16d2-7847-4015-a21c-e041bfa738be" />
+<img width="500" height="300" alt="Screenshot 2025-12-07 110304" src="https://github.com/user-attachments/assets/7b3d16d2-7847-4015-a21c-e041bfa738be" />
 
 **A Next-Generation Introspective Reasoning Engine**
 
-<img width="600" height="280" alt="Screenshot 2025-12-07 110242" src="https://github.com/user-attachments/assets/d57e4cfd-89dc-4246-9322-94753bbd54b4" />
-
-
 Socratic Mirror is a tactical philosophical engine designed to facilitate self-discovery. Unlike standard chatbots that simply reply, Socratic Mirror acts as a non-judgmental mirror, using the Socratic method to help you examine the foundations of your own beliefs, feelings, and knowledge.
+
+<img width="600" height="280" alt="Screenshot 2025-12-07 110242" src="https://github.com/user-attachments/assets/d57e4cfd-89dc-4246-9322-94753bbd54b4" />
 
 **v2 Update:** This version introduces a robust separation between **Philosophical Logic** and **Psychological Drivers**, along with real-time controls for dialogue depth and emotional safety.
 
